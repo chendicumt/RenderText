@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="popColor">#FFFFFF</color>
+    <color name="popBtnColor">#efeded</color>
+    <color name="seeColor">#f36e5d</color>
+    <color name="popText1Color">#3d9c6e</color>
+    <color name="popText2Color">#a9a8a8</color>
+    <color name="pupBtn2StrokeColor">#3d9c6e</color>
+</resources>
